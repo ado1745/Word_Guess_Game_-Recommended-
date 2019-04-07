@@ -1,0 +1,27 @@
+body {
+    background: url(../images/mainBgr.jpg);
+    color: white;
+    padding: 0;
+    margin: 0 auto;
+    min-height: 100%;
+}
+
+header {
+    text-align: center;
+    font-size: 60px;
+    color: black; 
+    width: 100%;
+    
+}
+
+h3 {
+    letter-spacing: 4px; 
+    word-spacing: 8px;
+}
+
+.pos {
+    padding-top: 50px;
+    height: 300px;
+    color: white;
+    text-align: center;
+}
